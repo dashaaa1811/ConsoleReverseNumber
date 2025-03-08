@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Переворот числа(123 → 321)
+//Структура:
+//Входные данные: целое число number.
+//Выходные данные: перевернутое число.
+
 namespace ConsoleReverseNumber
 {
     internal class Program
